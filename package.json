@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katleon/goit-node.js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Katarzyna Leoniuk",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "commander": "^11.0.0",
+    "uuid": "^9.0.0"
+  }
+}
